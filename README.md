@@ -4,6 +4,8 @@ Native client-server architecture for remote system administration.
 
 This is a native Delphi 12 implementation of a TCP-based remote administration system that can gather system information, manage processes, and execute commands on a target machine.
 
+This project is only intended to be a base for beginners to build on top of. It is not production ready, not feature rich, not secure.
+
 ---
 
 ![](/RemoteAdminDemo.gif)
