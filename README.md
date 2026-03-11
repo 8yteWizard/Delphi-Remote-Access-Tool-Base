@@ -10,6 +10,10 @@ This project is only intended to be a base for beginners to build on top of. It 
 
 ![](/RemoteAdminDemo.gif)
 
+![](/VT1.png)
+
+![](/VT2.png)
+
 ## Overview
 
 The tool establishes a persistent connection between a client process and a server interface.
